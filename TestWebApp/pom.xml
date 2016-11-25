@@ -58,7 +58,7 @@
 					</includes>
 				</configuration>
 			</plugin>
-			<plugin>
+			<!-- <plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.1</version>
@@ -67,7 +67,7 @@
 					<target>1.8</target>
 					<encoding>GBK</encoding>
 				</configuration>
-			</plugin>
+			</plugin> -->
 			<plugin>
 
 				<groupId>org.jacoco</groupId>
